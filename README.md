@@ -6,9 +6,9 @@ ChatGPT said: To write a strong grant funding proposal for a company, you'll nee
 **1. Cover Letter**
 - Purpose: Introduce your company and the proposal.
 - Key Elements:
-  - A brief overview of your company’s mission, vision, and values.
-  - Highlight the funding request and why it is necessary.
-  - Contact information for follow-up.
+   - A brief overview of your company’s mission, vision, and values.
+   - Highlight the funding request and why it is necessary.
+   - Contact information for follow-up.
 
 **Example:** "Dear [Grant Provider],
 
