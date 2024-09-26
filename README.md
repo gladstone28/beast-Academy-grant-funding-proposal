@@ -10,11 +10,13 @@ ChatGPT said: To write a strong grant funding proposal for a company, you'll nee
  - Highlight the funding request and why it is necessary.
  - Contact information for follow-up.
 
-**Example:** 
+**Example:** "Dear [Grant Provider],
+We at [Company Name], are committed to [company’s mission]. In line with this, we are seeking
+grant funding in the amount of [$ amount] to support our project [project name]. This project will enable us to [outcome/impact]. We appreciate your consideration and look forward to discussing the 
+details further.
 
-"Dear [Grant Provider],
-We at [Company Name], are committed to [company’s mission]. In line with this, we are seeking grant funding in the amount of [$ amount] to support our project [project name]. This project will enable us to [outcome/impact]. We appreciate your consideration and look forward to discussing the details further.
 Sincerely,
+
 [Your Name, Title]"
 
 **2. Executive Summary**
