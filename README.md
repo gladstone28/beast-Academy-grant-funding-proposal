@@ -37,17 +37,17 @@ Sincerely,
 **3. Problem/Need Statement**
 - Purpose: Clearly define the problem or need your company is addressing.
 - Key Elements:
- - Identify the challenge or issue.
- - Provide data or research to support the existence of this problem.
- - Explain how the issue impacts your target audience or industry.
- - Position your company’s project as a solution.
+  - Identify the challenge or issue.
+  - Provide data or research to support the existence of this problem.
+  - Explain how the issue impacts your target audience or industry.
+  - Position your company’s project as a solution.
 **Example:** "There is a growing need for [industry need]. According to [data source], [statistics]. This unmet need disproportionately affects [target audience], resulting in [negative outcome]. [Company Name] proposes to address this by [solution]."
 
 **4. Project Goals and Objectives**
 - Purpose: Clarify what the project aims to achieve.
 - Key Elements:
- - Define clear, measurable goals.
- - Include specific objectives that will help you reach those goals.
+  - Define clear, measurable goals.
+  - Include specific objectives that will help you reach those goals.
 **Example:** "The goal of our project is to [goal]. The specific objectives are:
 
 1. [Objective 1]
@@ -57,10 +57,10 @@ Sincerely,
 **5. Project Design/Implementation Plan**
 - Purpose: Describe how you will execute the project.
 - Key Elements:
- - Provide a detailed action plan (timeline, steps).
- - Mention the resources and team involved.
- - Describe any partnerships or collaborations.
- - Include milestones or deliverables.
+  - Provide a detailed action plan (timeline, steps).
+  - Mention the resources and team involved.
+  - Describe any partnerships or collaborations.
+  - Include milestones or deliverables.
 **Example:** "Our project will be implemented in three phases over a [time frame]:
 
 - Phase 1: [Action Step] (Month 1-3)
@@ -71,16 +71,20 @@ Each phase will be overseen by [team/department] and will result in [deliverable
 **6. Budget**
 - Purpose: Break down how the requested funds will be used.
 - Key Elements:
- - Include a detailed budget (personnel, materials, equipment, etc.).
- - Show how much funding will come from other sources (if applicable).
- - Justify all expenses in the narrative.
+  - Include a detailed budget (personnel, materials, equipment, etc.).
+  - Show how much funding will come from other sources (if applicable).
+  - Justify all expenses in the narrative.
 
 **Example:**
 
 Item	Cost	Explanation
+
 Personnel	$10,000	2 full-time employees for project management
+
 Equipment	$5,000	Tools for project execution
+
 Marketing	$3,000	Campaign to raise awareness
+
 Total	$18,000	Amount Requested
 
 **7. Sustainability Plan**
