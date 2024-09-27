@@ -117,18 +117,18 @@ Total	$18,000	Amount Requested
 **10. Conclusion**
 - Purpose: Reiterate the importance of your project and funding request.
 - Key Elements:
- - Recap the request and desired outcomes.
- - Express appreciation for the funder’s consideration.
+  - Recap the request and desired outcomes.
+  - Express appreciation for the funder’s consideration.
 
 **Example:** "We believe that [Project Name] will create lasting impact by [outcome]. With your support of [$ amount], we are confident that this project will contribute to [positive change]. Thank you for considering our request."
 
 **11. Attachments**
 - Purpose: Provide additional documentation to support your proposal.
 - Common Attachments:
- - Organizational chart.
- - Letters of support.
- - Financial statements.
- - Any relevant certifications or licenses.
+  - Organizational chart.
+  - Letters of support.
+  - Financial statements.
+  - Any relevant certifications or licenses.
 
 **Final Tips:**
 1. Customize for the Funder: Tailor the proposal to fit the specific goals and values of the grant provider.
