@@ -27,11 +27,11 @@ Sincerely,
 **2. Executive Summary**
 - Purpose: Summarize the entire proposal.
 - Key Elements:
- - Name of the project or initiative.
- - Purpose and goals of the project.
- - Amount of funding requested.
- - The expected impact of the project.
- - Brief mention of your organization’s background.
+  - Name of the project or initiative.
+  - Purpose and goals of the project.
+  - Amount of funding requested.
+  - The expected impact of the project.
+  - Brief mention of your organization’s background.
 **Example:** "Our project [Project Name] aims to [project’s goal] through [methods]. We are seeking [$ amount] in grant funding to expand our [product/service], which will impact [target population]. Our company, [Company Name], has been in operation for [years] and is dedicated to [mission statement]."
 
 **3. Problem/Need Statement**
