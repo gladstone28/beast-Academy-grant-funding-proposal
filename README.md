@@ -92,25 +92,25 @@ Total	$18,000	Amount Requested
 **7. Sustainability Plan**
 - Purpose: Explain how the project will continue after the grant period ends.
 - Key Elements:
- - Show how you will maintain funding or resources after the grant.
- - Mention any partnerships or future revenue models.
+  - Show how you will maintain funding or resources after the grant.
+  - Mention any partnerships or future revenue models.
 **Example:** "After the grant period, we plan to sustain the project by [method, e.g., revenue generation, future funding opportunities, partnerships]. Our goal is to ensure long-term impact through [sustainable practices]."
 
 **8. Evaluation and Impact Assessment**
 - Purpose: Define how you will measure the success of the project.
 - Key Elements:
- - Include specific metrics or KPIs (Key Performance Indicators).
- - Detail the process for monitoring progress.
- - Explain how outcomes will be reported to the funder.
+  - Include specific metrics or KPIs (Key Performance Indicators).
+  - Detail the process for monitoring progress.
+  - Explain how outcomes will be reported to the funder.
 
 **Example:** "Success will be measured by [metrics, e.g., number of beneficiaries, product adoption rate]. We will use [evaluation methods, e.g., surveys, performance data] to track progress and submit quarterly reports to ensure transparency and accountability."
 
 **9. Company Background**
 - Purpose: Provide background on your company’s qualifications.
 - Key Elements:
- - Company history and mission.
- - Highlight major achievements or milestones.
- - Showcase your company’s expertise relevant to the project.
+  - Company history and mission.
+  - Highlight major achievements or milestones.
+  - Showcase your company’s expertise relevant to the project.
 
 **Example:** "[Company Name] was founded in [year] with the mission to [mission]. We have [experience, e.g., completed 50+ projects, served 10,000 customers]. Our leadership team includes experts in [relevant fields], ensuring that we are well-positioned to execute this project successfully."
 
