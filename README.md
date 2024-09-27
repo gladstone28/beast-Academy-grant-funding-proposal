@@ -66,7 +66,8 @@ Sincerely,
 - Phase 1: [Action Step] (Month 1-3)
 - Phase 2: [Action Step] (Month 4-6)
 - Phase 3: [Action Step] (Month 7-12)
-Each phase will be overseen by [team/department] and will result in [deliverable]."
+
+xEach phase will be overseen by [team/department] and will result in [deliverable]."
 
 **6. Budget**
 - Purpose: Break down how the requested funds will be used.
