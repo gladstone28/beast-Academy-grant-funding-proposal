@@ -61,13 +61,14 @@ Sincerely,
   - Mention the resources and team involved.
   - Describe any partnerships or collaborations.
   - Include milestones or deliverables.
+
 **Example:** "Our project will be implemented in three phases over a [time frame]:
 
 - Phase 1: [Action Step] (Month 1-3)
 - Phase 2: [Action Step] (Month 4-6)
 - Phase 3: [Action Step] (Month 7-12)
 
-xEach phase will be overseen by [team/department] and will result in [deliverable]."
+"Each phase will be overseen by [team/department] and will result in [deliverable]."
 
 **6. Budget**
 - Purpose: Break down how the requested funds will be used.
